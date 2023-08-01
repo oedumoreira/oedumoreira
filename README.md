@@ -1,11 +1,12 @@
+
 <h1> Hi! My names Eduardo. </h1>
 
-<div>
+<div style="display: flex">
   <a href="https://github.com/oedumoreira">
 <!--   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=oedumoreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oedumoreira&layout=compact&langs_count=7&theme=react" />
-    <div  height="180em" align="center"> 
-  <div style="display: inline_block"><br>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oedumoreira&layout=compact&langs_count=7" />
+    <div  height="180em" align="center" style="margin-top:50px"> 
+  <div>
   <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -22,7 +23,7 @@
  <br>
 
  
-  ![Snake animation](https://github.com/oedumoreira/oedumoreira/blob/output/github-contribution-grid-snake.svg)
  
-</div>
+</div><br>
+![Snake animation](https://github.com/oedumoreira/oedumoreira/blob/output/github-contribution-grid-snake.svg)
  
