@@ -4,11 +4,9 @@
   <a href="https://github.com/oedumoreira">
 <!--   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=oedumoreira&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> -->
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oedumoreira&layout=compact&langs_count=7&theme=react" />
-
-  <img height="180em"  align="center" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
 </div>
  <br>
-<div  align="center"> 
+<div  height="180em" align="center"> 
   <div style="display: inline_block"><br>
   <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" title="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
