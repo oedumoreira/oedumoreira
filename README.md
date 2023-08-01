@@ -1,6 +1,6 @@
 
-<h1 align="center"> Hi! My names Eduardo. </h1>
-<div>
+<div align="center">
+    <h1 > Hi! My names Eduardo. </h1>
     <div  height="360em" align="center"> 
       <div>
         <img align="center" alt="PHP" title="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
